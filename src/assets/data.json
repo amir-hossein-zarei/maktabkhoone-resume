@@ -1,0 +1,76 @@
+{
+  "title": "Hello, I'm AmirHossein",
+  "subtitle": "Web Engineer % FullStack Developer",
+  "links": [
+    {
+      "color": "#24292e",
+      "name": "github",
+      "url": "https://github.com/amir-hossein-zarei"
+    },
+    {
+      "name": "telegram",
+      "color": "#49a9e9",
+      "url": "https://t.me/zareiah"
+    },
+    {
+      "color": "#ed803d",
+      "name": "stackoverflow",
+      "url": "https://stackoverflow.com/users/11078855/amirhossein-zarei"
+    },
+    {
+      "color": "#007fb1",
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/zareiah/"
+    },
+    {
+      "color": "#ff6347",
+      "name": "email",
+      "url": "mailto:amirhz9479@gmail.com"
+    }
+  ],
+  "sections": [
+    {
+      "id": "about",
+      "title": "About",
+      "type": "paragraph",
+      "color": "#006d77",
+      "items": [
+        "I'm a web developer experienced with react, nest.js and next.js",
+        "I have some experience working with flutter, react native and even micro-controller programming!"
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Skills",
+      "type": "card",
+      "color": "#e29578",
+      "items": [
+        {
+          "image": "/react.svg",
+          "title": "React",
+          "rate": 4
+        },
+        {
+          "image": "/html.svg",
+          "title": "HTML5",
+          "rate": 5
+        },
+        {
+          "image": "/css.svg",
+          "title": "CSS3",
+          "rate": 3.5
+        },
+        {
+          "image": "/vite.svg",
+          "title": "Vite",
+          "rate": 3.5
+        },
+        {
+          "image": "/ts.svg",
+          "title": "Typescript",
+          "rate": 5
+        }
+      ]
+    }
+  ]
+}
