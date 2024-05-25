@@ -46,27 +46,27 @@
       "color": "#e29578",
       "items": [
         {
-          "image": "/react.svg",
+          "image": "react.svg",
           "title": "React",
           "rate": 4
         },
         {
-          "image": "/html.svg",
+          "image": "html.svg",
           "title": "HTML5",
           "rate": 5
         },
         {
-          "image": "/css.svg",
+          "image": "css.svg",
           "title": "CSS3",
           "rate": 3.5
         },
         {
-          "image": "/vite.svg",
+          "image": "vite.svg",
           "title": "Vite",
           "rate": 3.5
         },
         {
-          "image": "/ts.svg",
+          "image": "ts.svg",
           "title": "Typescript",
           "rate": 5
         }
